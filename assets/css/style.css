@@ -1,0 +1,19 @@
+form{
+    background-image: url("http://natbg.com/wp-content/uploads/2016/06/desert-dune-sand-desert-nature-1080p-wallpaper-1600x1080.jpg");
+    text-align: center;
+    color: black;
+}
+.jumbotron{
+    text-align: center;
+   background-color: #F4A460;
+}
+
+footer{
+    background-color: #F4A460;
+    text-align: center;
+    padding-top: 50px;
+    height: 100px;
+}
+#show-number{
+    text-align: center;
+}
